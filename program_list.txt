@@ -1,0 +1,23 @@
+1) W.A.P in c++ to find out larger number among 3 numbers. . 
+2) W.A.P in c++ to display information of a person by creating class person. 
+3) W.A.P in c++ illustrating concept of inline function.  
+4) W.A.P in c++ illustrating concept of static data member and static member function.
+5) W.A.P in c++ illustrating accessing member functions within the class.
+6) W.A.P in c++ illustrating concept of default constructor.
+7) W.A.P in c++ illustrating concept of parameterized constructor.
+8) W.A.P in c++ illustrating concept of copy constructor.
+9) W.A.P in c++ illustrating concept of constructor overloading.
+10) W.A.P in c++ to demonstrate constructor with default argument. 
+11) W.A.P in c++ to demonstrate usage of a constructor and destructor function. Declare a class with public data member update information about active objects i.e.- i)no of objects created		ii)no of objects destroyed
+12) W.A.P in c++ to overload an unary minus (-) operator, using operator() as a friend function.
+13) W.A.P in c++ to overload binary plus (+) operator, using operator() as a member function.
+14) W.A.P in c++ to illustrate the use of Pointers to object.
+15) W.A.P in c++ to illustrate the use of this pointer.
+16) W.A.P in c++ to demonstrate Single Inheritance. Declare a class B and derive publically class D from B.- i) The class B contains private data member a, public data member b with member function get_ab, get_a, show_a. ii) The derived class D contains data member c with member function muland display.		
+17) W.A.P in c++ to demonstrate Multiple Inheritances. Declare class M and N      and derive publically class P from M and N.i) Declare a class M with protected data member m and public member function get_m. ii) Declare a class N with protected data member n containing member function get_n. iii) Declare class P containing member function display.
+18) W.A.P in c++ to demonstrate Multilevel Inheritance. Declare a class student and derive      publically a class test and derive publically class result from class test. i) The class student contains protected data member roll_number with public member functions get_number and put_number. ii) The class test containing protected data member sub1, sub2 with public member function get_marks and put_marks. iii) The class result contains data member total and public member function display.
+19) W.A.P in c++ to demonstrate Hierarchical Inheritance. Declare a class Side and derive publically class Square from base class side and also derive publically class cube from base class side. i) Class Side contains protected data member L with a member function set_values. ii) Class Square contains member function sq. iii) Class Cube contains member function cub.	
+20) W.A.P in c++ to demonstrate usage of normal virtual function 
+21) W.A.P in c++ to demonstrate usage pure virtual Function with abstract class.
+22) W.A.P in c++ to raise exception if an attempt is made to perform divide-by-zero.
+23) W.A.P in c++ to determine whether the input is +ve or –ve through exception. 
